@@ -1,4 +1,4 @@
 Hola soy MATEO
 Tengo 19 anios
 
-Manana nos enfocaremos en su vida universitaria
+Hoy aprenderé a usar git y GitHub
